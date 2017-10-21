@@ -52,6 +52,19 @@
 			g.drawString(display, 150, 150);Component
         
    }
+   
+   
+   
+   
+   
+   if(){
+   
+   	 //where is a bathroom
+  	 cout << "¿Donde es un baño?";
+   
+   }
+   
+   
     
     
     
